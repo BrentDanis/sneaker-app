@@ -13,9 +13,12 @@ h1 {
 }
 
 #kickit1 {
-    background-color: #b20000;
+    background: linear-gradient(to right,  #ae0f14 30%,#ec1d23 70%);
     padding-bottom: 100px;
   }
+article {
+  background-color: #ee3c22;
+}
 
 #imagesize {
     display: inline-block;
