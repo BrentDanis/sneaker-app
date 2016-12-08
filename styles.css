@@ -1,11 +1,29 @@
 body {
   background-color: white;
+  font-family: 'Indie Flower', cursive;
 }
+
+#shoppingcart {
+    height: 15px;
+      width: 1.5%;
+  }
+
 h1 {
   font-size: 5em;
 }
-body {font-family: 'Indie Flower', cursive;}
-  #kickit1 {background-color: #b20000}
+
+#kickit1 {
+    background-color: #b20000;
+    padding-bottom: 100px;
+  }
+
+#imagesize {
+    display: inline-block;
+    width: 20%;
+    padding-left: 135px;
+  }
+
+
 
 .size-em {
   font-size: 1.5em;
@@ -14,6 +32,7 @@ body {font-family: 'Indie Flower', cursive;}
   font-style: italic;
   letter-spacing: 2px;
 }
+
 div {
   display: inline-block;
   width: 45%;
@@ -33,6 +52,7 @@ div {
 
   border-radius: 10px;
 }
+
 #kickit3 {
   color: white;
   display: inline-block;
@@ -50,13 +70,18 @@ div {
   padding-top: 5px;
   padding-bottom: 5px;
   padding-right: 5px;
-
   border-radius: 5px;
-
 }
 
 ul li: hover {
   background-color: red;
+}
+h3 {
+  font-size: 1.5em;
+  text-align: center;
+}
+
+aside {
 }
 
 #fivestars {
