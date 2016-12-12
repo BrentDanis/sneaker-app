@@ -12,7 +12,8 @@ navigation {
 }
 
 .navmenu2 {
-  float: right;
+  padding-left: 50px;
+  ~float: right;
 }
 
 #shoppingcart {
